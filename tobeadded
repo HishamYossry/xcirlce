@@ -1,0 +1,311 @@
+<!-- Testimonials  Start -->
+    <div class="rts-testimonials-h2-area rts-section-gapTop pb--90 pb_sm--50 bg_testimonials-h2">
+        <div class="container">
+            <div class="row mb--30">
+                <div class="col-12">
+                    <div class="title-area testimonials-area-h2 text-center font-ara">
+                        <h2 class="title font-ara" data-sal-delay="250" data-sal="slide-up" data-sal-duration="800">أراء العملاء</h2>
+                        <span data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">عملائنا هم أولويتنا القصوي ونفخر بثقتهم بنا</span>
+
+                    </div>
+                </div>
+            </div>
+            <div class="row g-5">
+                <div class="col-12">
+                    <!-- Swiper -->
+                    <div class="swiper testimonials-h2">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <!-- single testimonials area -->
+                                <div class="single-testimonials-h2">
+                                    <div class="body">
+                                        <h5 class="title font-ara">شركة التقنية الأفضل</h5>
+                                        <p class="disc">
+                                            “تعامل راقي واحترافي وسرعة في انجاز العمل”
+                                        </p>
+                                    </div>
+                                    <div class="footer">
+                                        <div class="left">
+                                            <a class="thumbnail" href="#"><img src="assets/images/testimonials/01.png" alt="testimonials_image"></a>
+                                            <div class="desig">
+                                                <a href="#">
+                                                    <h6 class="title font-ara">
+                                                        محمد السعيد
+                                                    </h6>
+                                                </a>
+                                                <p>مدير شركة الأمل</p>
+                                            </div>
+                                        </div>
+                                        <div class="right">
+                                            <div class="stars-area">
+                                                <ul>
+                                                    <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- single testimonials area End -->
+                            </div>
+                            <div class="swiper-slide">
+                                <!-- single testimonials area -->
+                                <div class="single-testimonials-h2">
+                                    <div class="body">
+                                        <h5 class="title font-ara">تجربة ايجابية</h5>
+                                        <p class="disc">
+                                            “تعامل راقي واحترافي وسرعة في انجاز العمل”
+                                        </p>
+                                    </div>
+                                    <div class="footer">
+                                        <div class="left">
+                                            <a class="thumbnail" href="#"><img src="assets/images/testimonials/01.png" alt="testimonials_image"></a>
+                                            <div class="desig">
+                                                <a href="#">
+                                                    <h6 class="title font-ara">
+                                                        محمد السعيد
+                                                    </h6>
+                                                </a>
+                                                <p>مدير شركة الأمل</p>
+                                            </div>
+                                        </div>
+                                        <div class="right">
+                                            <div class="stars-area">
+                                                <ul>
+                                                    <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- single testimonials area End -->
+                            </div>
+                            <div class="swiper-slide">
+                               <!-- single testimonials area -->
+                               <div class="single-testimonials-h2">
+                                <div class="body">
+                                    <h5 class="title font-ara" >شركة التقنية الأفضل</h5>
+                                    <p class="disc">
+                                        “تعامل راقي واحترافي وسرعة في انجاز العمل”
+                                    </p>
+                                </div>
+                                <div class="footer">
+                                    <div class="left">
+                                        <a class="thumbnail" href="#"><img src="assets/images/testimonials/01.png" alt="testimonials_image"></a>
+                                        <div class="desig">
+                                            <a href="#">
+                                                <h6 class="title font-ara">
+                                                    محمد السعيد
+                                                </h6>
+                                            </a>
+                                            <p>مدير شركة الأمل</p>
+                                        </div>
+                                    </div>
+                                    <div class="right">
+                                        <div class="stars-area">
+                                            <ul>
+                                                <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single testimonials area End -->
+                            </div>
+                            <div class="swiper-slide">
+                               <!-- single testimonials area -->
+                               <div class="single-testimonials-h2">
+                                <div class="body">
+                                    <h5 class="title font-ara">شركة التقنية الأفضل</h5>
+                                    <p class="disc">
+                                        “تعامل راقي واحترافي وسرعة في انجاز العمل”
+                                    </p>
+                                </div>
+                                <div class="footer">
+                                    <div class="left">
+                                        <a class="thumbnail" href="#"><img src="assets/images/testimonials/01.png" alt="testimonials_image"></a>
+                                        <div class="desig">
+                                            <a href="#">
+                                                <h6 class="title font-ara">
+                                                    محمد السعيد
+                                                </h6>
+                                            </a>
+                                            <p>مدير شركة الأمل</p>
+                                        </div>
+                                    </div>
+                                    <div class="right">
+                                        <div class="stars-area">
+                                            <ul>
+                                                <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single testimonials area End -->
+                            </div>
+                            <div class="swiper-slide">
+                               <!-- single testimonials area -->
+                               <div class="single-testimonials-h2">
+                                <div class="body">
+                                    <h5 class="title font-ara">شركة التقنية الأفضل</h5>
+                                    <p class="disc">
+                                        “تعامل راقي واحترافي وسرعة في انجاز العمل”
+                                    </p>
+                                </div>
+                                <div class="footer">
+                                    <div class="left">
+                                        <a class="thumbnail" href="#"><img src="assets/images/testimonials/01.png" alt="testimonials_image"></a>
+                                        <div class="desig">
+                                            <a href="#">
+                                                <h6 class="title font-ara">
+                                                    محمد السعيد
+                                                </h6>
+                                            </a>
+                                            <p>مدير شركة الأمل</p>
+                                        </div>
+                                    </div>
+                                    <div class="right">
+                                        <div class="stars-area">
+                                            <ul>
+                                                <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                                <li><a href="#"><i class="fas fa-star"></i></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single testimonials area End -->
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                    <!-- swiper end -->
+                    <!-- cta start -->
+                <div class="banner-three-wrapper text-center pt--20">
+                    <a href="#" class="rts-btn btn-secondary font-ara">طلب سعر توضيحي</a>
+                </div>
+                <!-- cta end -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Testimonials End -->
+
+    <!--  project area start -->
+<div class="rts-project-area rts-section-gap bgproject-area ">
+    <div class="container">
+        <div class="row mb--20">
+            <div class="title-area text-center">
+                
+                <h3 class="title font-ara" data-sal-delay="250" data-sal="slide-up" data-sal-duration="800">معرض أعمالنا</h3>
+                <span data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">جزء من الأعمال التي تم تنفيذها بواسطتنا</span>
+            </div>
+        </div>
+        <div class="row g-24">
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
+                <div class="rts-product-one">
+                    <div class="thumbnail-area">
+                        <img src="assets/images/portfolio/01.jpg" alt="Business_Finbiz">
+                        <a class="rts-btn btn-primary rounded" href="project-details.html"><i class="far fa-arrow-right"></i></a>
+                    </div>
+                    <div class="product-contact-wrapper">
+                        <a href="project-details.html">
+                            <h5 class="title font-ara font-500">تصميم موقع مستشفي السعودي</h5>
+                        </a>
+                        <span>UI/UX Design</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal-delay="250" data-sal="slide-up" data-sal-duration="800">
+                <div class="rts-product-one">
+                    <div class="thumbnail-area">
+                        <img src="assets/images/portfolio/01.jpg" alt="Business_Finbiz">
+                        <a class="rts-btn btn-primary rounded" href="project-details.html"><i class="far fa-arrow-right"></i></a>
+                    </div>
+                    <div class="product-contact-wrapper">
+                        <a href="project-details.html">
+                            <h5 class="title font-ara font-500">اسم المشروع هنا</h5>
+                        </a>
+                        <span>تصنيف المشروع</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal-delay="350" data-sal="slide-up" data-sal-duration="800">
+                <div class="rts-product-one">
+                    <div class="thumbnail-area">
+                        <img src="assets/images/portfolio/01.jpg" alt="Business_Finbiz">
+                        <a class="rts-btn btn-primary rounded" href="project-details.html"><i class="far fa-arrow-right"></i></a>
+                    </div>
+                    <div class="product-contact-wrapper">
+                        <a href="project-details.html">
+                            <h5 class="title font-ara font-500">اسم المشروع هنا</h5>
+                        </a>
+                        <span>تصنيف المشروع</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
+                <div class="rts-product-one">
+                    <div class="thumbnail-area">
+                        <img src="assets/images/portfolio/01.jpg" alt="Business_Finbiz">
+                        <a class="rts-btn btn-primary rounded" href="project-details.html"><i class="far fa-arrow-right"></i></a>
+                    </div>
+                    <div class="product-contact-wrapper">
+                        <a href="project-details.html">
+                            <h5 class="title font-ara font-500">اسم المشروع</h5>
+                        </a>
+                        <span>تصنيف المشروع</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal-delay="250" data-sal="slide-up" data-sal-duration="800">
+                <div class="rts-product-one">
+                    <div class="thumbnail-area">
+                        <img src="assets/images/portfolio/01.jpg" alt="Business_Finbiz">
+                        <a class="rts-btn btn-primary rounded" href="project-details.html"><i class="far fa-arrow-right"></i></a>
+                    </div>
+                    <div class="product-contact-wrapper">
+                        <a href="project-details.html">
+                            <h5 class="title font-ara font-500">اسم المشروع</h5>
+                        </a>
+                        <span>تصنيف المشروع</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal-delay="350" data-sal="slide-up" data-sal-duration="800">
+                <div class="rts-product-one">
+                    <div class="thumbnail-area">
+                        <img src="assets/images/portfolio/01.jpg" alt="Business_Finbiz">
+                        <a class="rts-btn btn-primary rounded" href="project-details.html"><i class="far fa-arrow-right"></i></a>
+                    </div>
+                    <div class="product-contact-wrapper">
+                        <a href="project-details.html">
+                            <h5 class="title font-ara font-500">اسم المشروع</h5>
+                        </a>
+                        <span>تصنيف المشروع</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- rts project area end -->
